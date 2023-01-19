@@ -1,0 +1,18 @@
+.Hooks{
+    text-align: center;
+    background-color: black;
+    width: 60%;
+    margin: auto;
+    color: white;
+}
+
+.number{
+    font-size: 2rem;
+    color: white;
+    margin: auto;
+    width: 60px;
+}
+
+button{
+    margin: 6px;
+}

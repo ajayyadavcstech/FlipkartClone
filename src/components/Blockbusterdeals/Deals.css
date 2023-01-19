@@ -1,0 +1,22 @@
+*{}
+.Deals{
+    width: 90%;
+    margin:10px auto;
+    background-image: linear-gradient(rgba(189, 144, 45, 0.708),rgba(210, 193, 141, 0.473),rgba(19, 193, 19, 0.685));
+    border-radius: 10px;
+}
+.Deals .container{
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    /* flex-wrap: wrap; */
+    overflow-x: auto;
+    /* justify-content: space-around; */
+    gap: 10px;
+}
+.Deals p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 10px;
+}

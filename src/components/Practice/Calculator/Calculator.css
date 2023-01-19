@@ -1,0 +1,23 @@
+.Calculator{
+    background-color: black;
+    height: 200px;
+    border-radius: 10px;
+    color: white;
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.Calculator p{
+    font-size: 2rem;
+}
+/* .Calculator input{
+    width: 50px;
+    border-radius: 100px;
+    margin: 10px;
+    margin-top: 20px;
+    text-align: center;
+    border:none
+
+} */

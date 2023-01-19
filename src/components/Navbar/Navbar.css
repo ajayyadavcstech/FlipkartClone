@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    height: 60px;
+    background-color: rgb(16, 123, 222);
+    color:white;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-left{
+    gap: 10px;
+    width: 40%;
+    justify-content: space-between;
+    display: flex;
+}
+.nav-left >p{
+    font-weight: 800px;
+    font-size: 1.5rem;
+}
+.nav-left>input{
+    font-size: 16px;
+    width: 80%;
+    border:none;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+
+.nav-left>input:focus{
+    outline: none;
+}
+
+.nav-right{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 18px;
+    gap:8%;
+    width: 50%;
+}
